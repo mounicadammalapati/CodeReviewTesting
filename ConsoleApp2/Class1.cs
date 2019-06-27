@@ -9,6 +9,8 @@ namespace ConsoleApp2
         public void hello()
         {
             Console.WriteLine("hello thsi is");
+
+            int sum = 0;
         }
     }
 }
